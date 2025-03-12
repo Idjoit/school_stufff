@@ -1,1 +1,49 @@
-
+[
+    {
+      "id": 1,
+      "name": "elijah road",
+      "email": "example@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Kebin Moli",
+      "email": "example@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Jard road",
+      "email": "example@gmail.com"
+    },
+    {
+      "id": 1,
+      "name": "Neil",
+      "email": "example@gmail.com"
+    },
+    {
+      "id": 1,
+      "name": "Charlie Vlad",
+      "email": "example@gmail.com"
+    },
+    {
+      "id": 1,
+      "name": "Prince Quiros",
+      "email": "example@gmail.com"
+    },
+    {
+      "id": 1,
+      "name": "Dmoergue",
+      "email": "example@gmail.com"
+    },
+    {
+      "id": 1,
+      "name": "Samuel jack",
+      "email": "franxinne@gmail.com"
+    },
+    {
+      "id": 1,
+      "name": "John Wick",
+      "email": "example@gmail.com"
+    }
+    
+  ]
+  
