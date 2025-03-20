@@ -1,51 +1,20 @@
 [
   {
-    "id": "1",
+    "id": 1,
+    "title": "Complete Flutter BLoC tutorial",
+    "category": "Work",
+    "isCompleted": false
+  },
+  {
+    "id": 2,
     "title": "Buy groceries",
-    "description": "Milk, eggs, bread",
-    "category": "personal",
-    "status": "pending"
+    "category": "Personal",
+    "isCompleted": false
   },
   {
-    "id": "2",
-    "title": "Finish project",
-    "description": "Complete the final report",
-    "category": "work",
-    "status": "completed"
-  },
-  {
-    "id": "3",
-    "title": "Call Mom",
-    "description": "Catch up over the phone",
-    "category": "personal",
-    "status": "pending"
-  },
-  {
-    "id": "4",
-    "title": "Plan team meeting",
-    "description": "Discuss Q3 targets and strategy",
-    "category": "work",
-    "status": "pending"
-  },
-  {
-    "id": "5",
-    "title": "Pay bills",
-    "description": "Electricity, water, and internet bills",
-    "category": "urgent",
-    "status": "pending"
-  },
-  {
-    "id": "6",
-    "title": "Workout",
-    "description": "30 minutes of cardio and strength training",
-    "category": "personal",
-    "status": "completed"
-  },
-  {
-    "id": "7",
-    "title": "Read a book",
-    "description": "Finish reading the assigned chapters",
-    "category": "personal",
-    "status": "pending"
+    "id": 3,
+    "title": "Call the client",
+    "category": "Urgent",
+    "isCompleted": true
   }
 ]
