@@ -1,36 +1,16 @@
-
-{
-  "task_ids": [1, 2, 3],
-  "titles": [
-    {"id": 1, "title": "Buy groceries"},
-    
-  ],
-  "due_dates": [
-    {"id": 1, "due_date": "2025-03-15"},
-
-  ],
-  "priorities": [
-    {"id": 1, "priority": "high"},
-    
-  ],
-
-  "statuses": [
-    {"id": 1, "status": "pending"},
-    
-  ],
-  "categories": [
-    {"id": 1, "category": "Personal"},
-    
-  ],
-  "descriptions": [
-    {"id": 1, "description": "Milk, eggs, bread, and vegetables"},
-    
-  ]
-}
-
-
-
-
-
-
-
+[
+  {
+    "id": "1",
+    "title": "Buy groceries",
+    "description": "Milk, eggs, bread",
+    "category": "personal",
+    "status": "pending"
+  },
+  {
+    "id": "2",
+    "title": "Finish project",
+    "description": "Complete the final report",
+    "category": "work",
+    "status": "completed"
+  }
+]
